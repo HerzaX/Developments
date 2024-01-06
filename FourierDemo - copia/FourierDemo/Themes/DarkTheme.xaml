@@ -1,0 +1,43 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Background Colors -->
+    <SolidColorBrush x:Key="PrimaryBackgroundColor" Color="#0A003A"/>
+    <SolidColorBrush x:Key="SecundaryBackgroundColor" Color="#1C0E49"/>
+
+    <!-- Primary Colors -->
+    <SolidColorBrush x:Key="PrimaryBlueColor" Color="#5B7FFF"/>
+    <SolidColorBrush x:Key="PrimaryGrayColor" Color="#BFBFC4"/>
+
+    <!-- Secundary Colors -->
+    <SolidColorBrush x:Key="SecundaryBlueColor" Color="#CEE8FB"/>
+    <SolidColorBrush x:Key="SecundaryGrayColor" Color="#EEEEEE"/>
+
+    <!-- Typograhy Colors -->
+    <SolidColorBrush x:Key="TextPrimaryColor" Color="LightGray"/>
+    <SolidColorBrush x:Key="TextSecundaryColor" Color="#434344"/>
+
+    <!-- Icons Colors -->
+    <SolidColorBrush x:Key="ActionIconColor" Color="#434344"/>
+    
+   <!--COLORES MF -->
+
+    <!--Colores-->
+    <SolidColorBrush x:Key="Blue.MF" Color="#005CD5"/>
+    <SolidColorBrush x:Key="Blue.Hover" Color="#1C7EFF"/>
+    <SolidColorBrush x:Key="Blue.Pressed" Color="#00459F"/>
+    <SolidColorBrush x:Key="Blue.Disabled" Color="#99B0CD"/>
+    <SolidColorBrush x:Key="Blue.Container" Color="#25293A"/>
+    <SolidColorBrush x:Key="BlackBlue" Color="#161823"/>
+
+    <SolidColorBrush x:Key="BaseBlue" Color="#5387CB"/>
+    <SolidColorBrush x:Key="BaseBlue.Hover" Color="#A9CEFF"/>
+    <SolidColorBrush x:Key="BaseBlue.Pressed" Color="#4776B3"/>
+    <SolidColorBrush x:Key="BaseBlue.Disabled" Color="#DEECFF"/>
+
+    <SolidColorBrush x:Key="Almost.Black" Color="#161823"/>
+
+    <SolidColorBrush x:Key="SoftGray" Color="#CFC2C2"/>
+    <SolidColorBrush x:Key="GrayBlue" Color="#787E9C"/>
+
+</ResourceDictionary>

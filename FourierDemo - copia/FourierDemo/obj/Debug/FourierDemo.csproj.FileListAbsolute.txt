@@ -1,0 +1,62 @@
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\bin\Debug\FourierDemo.exe.config
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\bin\Debug\FourierDemo.exe
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\bin\Debug\FourierDemo.pdb
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\View\MainWindow.g.cs
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\View\LoginView.g.cs
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo_MarkupCompile.cache
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo_MarkupCompile.lref
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\View\MainWindow.baml
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\View\LoginView.baml
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo.g.resources
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo.Properties.Resources.resources
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo.exe
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo.pdb
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\Styles\UIColors.baml
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\App.baml
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\FourierDemo.csproj.CopyComplete
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\View\CustomerView.g.cs
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\View\HomeView.g.cs
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\View\CustomerView.baml
+C:\Users\admin\Desktop\FourierDemo\FourierDemo\obj\Debug\View\HomeView.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\bin\Debug\FourierDemo.exe.config
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\bin\Debug\FourierDemo.exe
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\bin\Debug\FourierDemo.pdb
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\Styles\MainStyle.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\Styles\UIColors.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\Themes\DarkTheme.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\Themes\LightTheme.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\View\CustomerView.g.cs
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\View\HomeView.g.cs
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\View\MainWindow.g.cs
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\View\LoginView.g.cs
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo_MarkupCompile.cache
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo_MarkupCompile.lref
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\App.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\View\CustomerView.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\View\HomeView.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\View\MainWindow.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\View\LoginView.baml
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo.g.resources
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo.Properties.Resources.resources
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo.csproj.CopyComplete
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo.exe
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\FourierDemo.pdb
+C:\Users\admin\Desktop\FourierDemo - copia\FourierDemo\obj\Debug\Styles\Page.baml
